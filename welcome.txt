@@ -1,0 +1,4 @@
+Welcome player. Your travel is gonna start, first you must create your character.
+
+For this job, you must select your character's name, class and race.
+There are 3 races
